@@ -1,7 +1,7 @@
 $schema: https://azuremlschemas.azureedge.net/latest/workspace.schema.json
-name: Tipping
+name: Lotto
 location: <insert region here>
-display_name: Tipping
+display_name: Lotto
 description: A workspace for testing enterprise readiness features
 tags:
   purpose: testing
